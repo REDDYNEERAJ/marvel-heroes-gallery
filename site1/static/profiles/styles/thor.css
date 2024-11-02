@@ -1,0 +1,50 @@
+body {
+  background-color: rgba(84, 209, 240, 0.986);
+}
+h1 {
+  color: rgba(235, 17, 17, 0.993);
+  font-size: 70px;
+}
+p {
+  color: black;
+}
+h1 {
+  font-family: "Press Start 2P", cursive;
+}
+h2 {
+  font-family: "Libre Barcode 39 Text", cursive;
+  font-size: 60px;
+}
+h5 {
+  font-family: "Bungee", cursive;
+  font-size: 20px;
+}
+h6 {
+  font-family: "Bungee", cursive;
+  font-size: 20px;
+}
+h4 {
+  font-family: "Rampart One", cursive;
+  font-size: 40px;
+  color: crimson;
+}
+h3 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 30px;
+}
+h5 {
+  margin-top: 0px;
+  margin-bottom: 50 px;
+  margin-right: 350px;
+  margin-left: 30px;
+}
+.thorcard {
+  position: absolute;
+  right: 0px;
+  width: 400px;
+  padding: 0px;
+  float: right;
+}
+.thor {
+  float: left;
+}

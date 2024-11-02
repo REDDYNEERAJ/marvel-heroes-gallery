@@ -1,0 +1,50 @@
+body {
+  background-color: rgb(55, 8, 184);
+}
+h1 {
+  color: whitesmoke;
+}
+p {
+  color: black;
+}
+h1 {
+  font-family: "Press Start 2P", cursive;
+}
+h2 {
+  font-family: "Libre Barcode 39 Text", cursive;
+  color: black;
+  font-size: 60px;
+}
+h5 {
+  font-family: "Bungee", cursive;
+  font-size: 20px;
+}
+h6 {
+  font-family: "Bungee", cursive;
+  font-size: 20px;
+}
+h4 {
+  font-family: "Rampart One", cursive;
+  font-size: 40px;
+  color: whitesmoke;
+}
+h3 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 30px;
+}
+h5 {
+  margin-top: 50px;
+  margin-bottom: 50 px;
+  margin-right: 325px;
+  margin-left: 30px;
+}
+.captainamericacard {
+  position: absolute;
+  right: 10px;
+  width: 300px;
+  padding: 10px;
+  float: right;
+}
+.captainamerica {
+  float: left;
+}
