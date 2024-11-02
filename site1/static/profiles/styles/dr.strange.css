@@ -1,0 +1,53 @@
+body {
+  background-color: rgb(9, 1, 83);
+}
+h1 {
+  color: rgb(136, 13, 13);
+  font-size: 70px;
+}
+p {
+  color: rgb(0, 0, 0);
+}
+h1 {
+  font-family: "Press Start 2P", cursive;
+}
+h2 {
+  font-family: "Libre Barcode 39 Text", cursive;
+  font-size: 60px;
+  color: rgb(139, 10, 5);
+}
+h5 {
+  font-family: "Bungee", cursive;
+  font-size: 20px;
+}
+h6 {
+  font-family: "Bungee", cursive;
+  font-size: 20px;
+}
+h4 {
+  font-family: "Rampart One", cursive;
+  font-size: 40px;
+  color: rgb(247, 247, 99);
+}
+h3 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 30px;
+  color: silver;
+}
+h5 {
+  margin-top: 0px;
+  margin-bottom: 50 px;
+  margin-right: 350px;
+  margin-left: 30px;
+  color: rgba(183, 250, 120, 0.959);
+}
+.doctorstrangecard {
+  position: absolute;
+  right: 10px;
+  width: 350px;
+  padding: 0px;
+  float: right;
+}
+.doctorstrange {
+  float: left;
+}

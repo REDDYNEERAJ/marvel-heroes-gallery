@@ -1,0 +1,499 @@
+.ironman {
+
+  position: absolute;
+  width: 30%;
+  left: 00px;
+  right: 0px;
+  top: 818px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.ironman img {
+  width: 50%;
+  height: auto;
+}
+.ironman .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgba(148, 10, 10, 0.836);
+  color: black;
+  font-size: 16px;
+  padding: 12px 100px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.ironman .btn:hover {
+  background-color: goldenrod;
+}
+.captainamerica {
+  position: absolute;
+  width: 30%;
+  left: 325px;
+  right: 0px;
+  top: 818px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.captainamerica img {
+  width: 50%;
+  height: auto;
+}
+.captainamerica .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgba(35, 81, 173, 0.966);
+  color: black;
+  font-size: 16px;
+  padding: 12px 65px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.captainamerica .btn:hover {
+  background-color: rgb(190, 185, 185);
+}
+
+.hulk {
+  position: absolute;
+  width: 30%;
+  left: 1285px;
+  right: 0px;
+  top: 818px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.hulk img {
+  width: 50%;
+  height: auto;
+}
+.hulk .btn {
+  position: relative;
+  top: 90%;
+  left: -26%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgba(11, 94, 32, 0.966);
+  color: black;
+  font-size: 16px;
+  padding: 12px 115px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.hulk .btn:hover {
+  background-color: purple;
+}
+
+.thor {
+  position: absolute;
+  width: 30%;
+  left: 965px;
+  right: 0px;
+  top: 818px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.thor img {
+  width: 50%;
+  height: auto;
+}
+.thor .btn {
+  position: relative;
+  top: 90%;
+  left: -26%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgba(44, 8, 109, 0.966);
+  color: black;
+  font-size: 16px;
+  padding: 12px 115px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.thor .btn:hover {
+  background-color: rgb(172, 124, 61);
+}
+.blackwidow {
+  position: absolute;
+  width: 30%;
+  left: 645px;
+  right: 0px;
+  top: 818px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.blackwidow img {
+  width: 50%;
+  height: auto;
+}
+.blackwidow .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: black;
+  color: whitesmoke;
+  font-size: 16px;
+  padding: 12px 80px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.blackwidow .btn:hover {
+  background-color: rgb(121, 15, 15);
+}
+.Hawkeye {
+  position: absolute;
+  width: 30%;
+  left: 1600px;
+  right: 0px;
+  top: 818px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.Hawkeye img {
+  width: 50%;
+  height: auto;
+}
+.Hawkeye .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: black;
+  color: whitesmoke;
+  font-size: 16px;
+  padding: 12px 90px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.Hawkeye .btn:hover {
+  background-color: rgb(92, 18, 92);
+}
+.falcon {
+  position: absolute;
+  width: 30%;
+  left: 0px;
+  right: 0px;
+  top: 1200px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.falcon img {
+  width: 50%;
+  height: auto;
+}
+.falcon .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(80, 80, 143);
+  color: black;
+  font-size: 16px;
+  padding: 12px 30px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.falcon .btn:hover {
+  background-color: rgb(143, 31, 16);
+}
+.vison {
+  position: absolute;
+  width: 30%;
+  left: 640px;
+  right: 0px;
+  top: 1200px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.vison img {
+  width: 50%;
+  height: auto;
+}
+.vison .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(33, 33, 97);
+  color: black;
+  font-size: 16px;
+  padding: 12px 110px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.vison .btn:hover {
+  background-color: rgb(114, 27, 15);
+}
+.wintersoldier {
+  position: absolute;
+  width: 30%;
+  left: 320px;
+  right: 0px;
+  top: 1200px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.wintersoldier img {
+  width: 50%;
+  height: auto;
+}
+.wintersoldier .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: black;
+  color: whitesmoke;
+  font-size: 16px;
+  padding: 12px 65px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.wintersoldier .btn:hover {
+  background-color: rgb(124, 97, 27);
+}
+.wanda {
+  position: absolute;
+  width: 30%;
+  left: 960px;
+  right: 0px;
+  top: 1200px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.wanda img {
+  width: 50%;
+  height: auto;
+}
+.wanda .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(138, 18, 18);
+  color: black;
+  font-size: 16px;
+  padding: 12px 75px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.wanda .btn:hover {
+  background-color: rgb(177, 16, 83);
+}
+.spiderman {
+  position: absolute;
+  width: 30%;
+  left: 1600px;
+  right: 0px;
+  top: 1200px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.spiderman img {
+  width: 50%;
+  height: auto;
+}
+.spiderman .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(138, 18, 18);
+  color: black;
+  font-size: 16px;
+  padding: 12px 75px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.spiderman .btn:hover {
+  background-color: rgb(21, 4, 95);
+}
+.warmachine {
+  position: absolute;
+  width: 30%;
+  left: 1280px;
+  right: 0px;
+  top: 1200px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.warmachine img {
+  width: 50%;
+  height: auto;
+}
+.warmachine .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: black;
+  color: whitesmoke;
+  font-size: 16px;
+  padding: 12px 75px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.warmachine .btn:hover {
+  background-color: rgb(73, 92, 110);
+}
+.blackpanther {
+  position: absolute;
+  width: 30%;
+  left: 0px;
+  right: 0px;
+  top: 1585px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.blackpanther img {
+  width: 50%;
+  height: auto;
+}
+.blackpanther .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: black;
+  color: silver;
+  font-size: 16px;
+  padding: 12px 70px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.blackpanther .btn:hover {
+  background-color: rgb(87, 3, 87);
+}
+.antman {
+  position: absolute;
+  width: 30%;
+  left: 320px;
+  right: 0px;
+  top: 1585px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.antman img {
+  width: 50%;
+  height: auto;
+}
+.antman .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: silver;
+  color: black;
+  font-size: 16px;
+  padding: 12px 90px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.antman .btn:hover {
+  background-color: rgb(143, 31, 16);
+}
+.doctorstrange {
+  position: absolute;
+  width: 30%;
+  left: 640px;
+  right: 0px;
+  top: 1585px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.doctorstrange img {
+  width: 50%;
+  height: auto;
+}
+.doctorstrange .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(6, 6, 136);
+  color: black;
+  font-size: 16px;
+  padding: 12px 60px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.doctorstrange .btn:hover {
+  background-color: rgb(143, 31, 16);
+}
+.captainmarvel {
+  position: absolute;
+  width: 30%;
+  left: 960px;
+  right: 0px;
+  top: 1585px;
+  bottom: 325px;
+  padding: 0px;
+  float: right;
+}
+.captainmarvel img {
+  width: 50%;
+  height: auto;
+}
+.captainmarvel .btn {
+  position: relative;
+  top: 90%;
+  left: -25.5%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: rgb(189, 162, 11);
+  color: rgb(8, 8, 141);
+  font-size: 16px;
+  padding: 12px 60px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.captainmarvel .btn:hover {
+  background-color: rgb(184, 5, 5);
+}
