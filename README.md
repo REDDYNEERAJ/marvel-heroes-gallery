@@ -19,7 +19,7 @@ Marvel Heroes Gallery is a Django web application that showcases Marvel superher
 - Inspired by Marvel Comics and the Avengers
 - Built and maintained by R Reddy Neeraj
 
-Home Page:
+Home Page: avengers/
 
 ![image](https://github.com/user-attachments/assets/6caeba1d-aed1-4f12-b727-e9b57f2fefaa)
 
